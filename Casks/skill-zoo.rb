@@ -3,12 +3,12 @@ cask "skill-zoo" do
 
   on_arm do
     url "https://github.com/luochang212/skill-zoo/releases/download/v#{version}/Skill-Zoo-v#{version}-macOS-arm64.dmg"
-    sha256 "ada5f119ea11d87267f823caed666d668b90f4d5124bf43e4e0bade28df466d0"
+    sha256 "a95c20a73f624df23693093ded398a3ec43e768ddd44f5d406b54678bf55c636"
   end
 
   on_intel do
     url "https://github.com/luochang212/skill-zoo/releases/download/v#{version}/Skill-Zoo-v#{version}-macOS-x64.dmg"
-    sha256 "b3d556f36b6fb5e4671dbc7abb98b4bbdd8a0965c529f7cc2ab7e8445d1bfb66"
+    sha256 "b2c859a1ed264b30e06ea7bb437fcbd96ffd8fc5ca272135f8a790200dcb3825"
   end
 
   name "Skill Zoo"
