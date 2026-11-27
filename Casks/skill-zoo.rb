@@ -1,8 +1,8 @@
 cask "skill-zoo" do
-  version "1.2.2"
+  version "1.3.0"
 
   url "https://github.com/luochang212/skill-zoo/releases/download/v#{version}/Skill-Zoo-v#{version}-macOS.dmg"
-  sha256 "a546f8f57b0e4ef1e8b7b6fab7c4e92afba8ef9d754632865c30d912bbfb8bc3"
+  sha256 "c39b9fbe5cf94701822e19042ea3f9ab634f65d8fcaa7fccd40ccedb454a8523"
 
   name "Skill Zoo"
   desc "Local GUI tool for managing AI Agent Skills"
